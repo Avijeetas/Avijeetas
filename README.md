@@ -1,10 +1,8 @@
 
-### hey there 
+### Hi 👋,
+I'm Avijeet Shil, a passionate full-stack web developer. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
 
-
-hi, I'm Avijeet Shil, a passionate full-stack web developer. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-<p>I am a Graduate Teaching Assistant at University of North Texas, Denton, TX, to have a Ph.D. from the fall 2023 Session. I am working under <a href="https://engineering.unt.edu/sites/default/files/baseball_card/Wei_Jin.pdf"> Professor Wei Jin</a>, University of North Texas, Denton, TX, in a broad area of information retrieval, natural language processing.</p> 
+<p>I am a Graduate Teaching Assistant at University of North Texas, Denton, TX, to have a Ph.D. from the fall 2023 Session. I am working under <a href="https://engineering.unt.edu/sites/default/files/baseball_card/Wei_Jin.pdf"> Professor Dr. Wei Jin</a>, University of North Texas, Denton, TX, in a broad area of information retrieval, natural language processing.</p> 
 
  <p>My research focuses on Applied Machine Learning, Information Retrieval, TextWeb Mining, Software Engineering.</p>
 
